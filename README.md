@@ -1,0 +1,2 @@
+# springbootMySql
+Learning db connection
